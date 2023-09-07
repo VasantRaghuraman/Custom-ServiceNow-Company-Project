@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Custom incident</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Custom incident</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">fe634cb454302110a866ac4e61313182</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-07 10:00:28</sys_created_on>
+        <sys_id>b19d484b97c5b1105d50b846f053afd2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom incident</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_wizard_answer_b19d484b97c5b1105d50b846f053afd2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-07 10:00:28</sys_updated_on>
+        <table/>
+        <target_url>x_1093153_dream_0_custom_incident.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

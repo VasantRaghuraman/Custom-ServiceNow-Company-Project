@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-07 02:34:30</sys_created_on>
+        <sys_id>098722ba9741b1105d50b846f053afae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1093153_dream_0_custom_incident.x_1093153_dream_0.sales_dept_role</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_security_acl display_value="x_1093153_dream_0_custom_incident">898722ba9741b1105d50b846f053afab</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_098722ba9741b1105d50b846f053afae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-07 02:34:30</sys_updated_on>
+        <sys_user_role display_value="x_1093153_dream_0.sales_dept_role" name="x_1093153_dream_0.sales_dept_role">8d8722ba9741b1105d50b846f053afa7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</application>
+        <file_path/>
+        <instance_id>bbcbaa8ddb8f2090a667cac505961992</instance_id>
+        <instance_name>dev107609</instance_name>
+        <name>sys_security_acl_role_098722ba9741b1105d50b846f053afae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-07 02:34:30</sys_created_on><sys_id>098722ba9741b1105d50b846f053afae</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1093153_dream_0_custom_incident.x_1093153_dream_0.sales_dept_role</sys_name><sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package><sys_policy/><sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope><sys_security_acl display_value="x_1093153_dream_0_custom_incident">898722ba9741b1105d50b846f053afab</sys_security_acl><sys_update_name>sys_security_acl_role_098722ba9741b1105d50b846f053afae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-07 02:34:30</sys_updated_on><sys_user_role display_value="x_1093153_dream_0.sales_dept_role" name="x_1093153_dream_0.sales_dept_role">8d8722ba9741b1105d50b846f053afa7</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-217563171</payload_hash>
+        <record_name>x_1093153_dream_0_custom_incident.x_1093153_dream_0.sales_dept_role</record_name>
+        <reverted_from/>
+        <source>84ca76ee97c171105d50b846f053af25</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-07 02:34:30</sys_created_on>
+        <sys_id>818722ba9741b1105d50b846f053afb1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a6d7dba620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-07 02:34:30</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>c98722ba1041b110abf0362ab18cffb0</update_guid>
+        <update_guid_history>c98722ba1041b110abf0362ab18cffb0:-217563171</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1093153_dream_0_custom_incident.x_1093153_dream_0.sales_dept_role">af58eeba9741b1105d50b846f053af19</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-07 02:38:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>33ffb0dfa43d4fa28ad10f0c230abbc9</sys_id>
+        <sys_metadata>098722ba9741b1105d50b846f053afae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1093153_dream_0_custom_incident.x_1093153_dream_0.sales_dept_role</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_parent display_value="">898722ba9741b1105d50b846f053afab</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_scope_delete display_value="">1171cab69e614554bd06de1500ccac64</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_098722ba9741b1105d50b846f053afae</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_098722ba9741b1105d50b846f053afae">818722ba9741b1105d50b846f053afb1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-07 02:38:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
