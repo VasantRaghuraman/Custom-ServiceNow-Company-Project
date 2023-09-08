@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="e19d484b97c5b1105d50b846f053afbb" extends="task" label="Custom incident" max_length="40" name="x_1093153_dream_0_custom_incident" type="collection"/>
+    <element db_object_id="e19d484b97c5b1105d50b846f053afbb" extends="task" label="Custom incident" max_length="40" name="x_1093153_dream_0_custom_incident" type="collection">
+        <element label="Business Impact" max_length="4000" name="business_impact" type="string"/>
+        <element label="Business resolve time" max_length="40" name="business_stc" type="integer"/>
+    </element>
 </database>

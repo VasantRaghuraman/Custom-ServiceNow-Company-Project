@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a5cfd65797cdf1105d50b846f053af22" label="User" max_length="40" name="x_1093153_dream_0_sys_user" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="active" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Building" max_length="40" name="building" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business phone" max_length="40" name="business_phone" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Calendar integration" max_length="40" name="calendar_integration" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Class" max_length="40" name="class" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Company" max_length="40" name="company" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee number" max_length="40" name="employee_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Gender" max_length="40" name="gender" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Home phone" max_length="40" name="home_phone" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manager" max_length="40" name="manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile phone" max_length="40" name="mobile_phone" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="40" name="password" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Password needs reset" max_length="40" name="password_needs_reset" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Photo" max_length="40" name="photo" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" label="Roles" max_length="40" name="roles" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Schedule end" max_length="40" name="schedule_end" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Schedule Start" max_length="40" name="schedule_start" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="State / Province" max_length="40" name="state_province" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Street" max_length="40" name="street" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Time zone" max_length="40" name="time_zone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User ID" max_length="40" name="user_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VIP" max_length="40" name="vip" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Zip / Postal code" max_length="40" name="zip_postal_code" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
