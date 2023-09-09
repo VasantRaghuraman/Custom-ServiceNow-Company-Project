@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="81d75a6f974d35105d50b846f053af64" label="Incident" max_length="40" name="x_1093153_dream_0_incident" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="active" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Activity due" max_length="40" name="activity_due" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Actual end" max_length="40" name="actual_end" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Actual start" max_length="40" name="actual_start" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional comments" max_length="452" name="additional_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Approval" max_length="40" name="approval" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Approval history" max_length="40" name="approval_history" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned to" max_length="40" name="assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assignment group" max_length="40" name="assignment_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Caller" max_length="40" name="caller" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Caused by Change" max_length="40" name="caused_by_change" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Change Request" max_length="40" name="change_request" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Closed" max_length="40" name="closed" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Closed by" max_length="40" name="closed_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments and Work notes" max_length="566" name="comments_and_work_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Configuration item" max_length="40" name="configuration_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contract" max_length="40" name="contract" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created" max_length="40" name="created" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Created by" max_length="40" name="created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery task" max_length="40" name="delivery_task" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="241" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Effective number" max_length="40" name="effective_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Incident state" max_length="40" name="incident_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last reopened by" max_length="40" name="last_reopened_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="41" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number 2" max_length="40" name="number_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Opened" max_length="40" name="opened" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Opened by" max_length="40" name="opened_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Parent" max_length="40" name="parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Parent Incident" max_length="40" name="parent_incident" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Priority" max_length="40" name="priority" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Problem" max_length="40" name="problem" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Resolved by" max_length="40" name="resolved_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service" max_length="40" name="service" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Service offering" max_length="40" name="service_offering" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Severity" max_length="40" name="severity" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="sFone" max_length="40" name="sfone" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="sFone Model" max_length="40" name="sfone_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="63" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SLA due" max_length="40" name="sla_due" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Subcategory" max_length="40" name="subcategory" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Urgency" max_length="40" name="urgency" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Work notes" max_length="270" name="work_notes" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
