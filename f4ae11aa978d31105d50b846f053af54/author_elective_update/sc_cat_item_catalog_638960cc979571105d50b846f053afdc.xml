@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Laptop">10f8e48c979571105d50b846f053af4f</sc_cat_item>
+        <sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-10 14:36:34</sys_created_on>
+        <sys_id>638960cc979571105d50b846f053afdc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Catalog.Laptop</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_638960cc979571105d50b846f053afdc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-10 14:36:34</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</application>
+        <file_path/>
+        <instance_id>bbcbaa8ddb8f2090a667cac505961992</instance_id>
+        <instance_name>dev107609</instance_name>
+        <name>sc_cat_item_catalog_638960cc979571105d50b846f053afdc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Laptop">10f8e48c979571105d50b846f053af4f</sc_cat_item><sc_catalog display_value="Technical Catalog">742ce428d7211100f2d224837e61036d</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-10 14:36:34</sys_created_on><sys_id>638960cc979571105d50b846f053afdc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Technical Catalog.Laptop</sys_name><sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package><sys_policy/><sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope><sys_update_name>sc_cat_item_catalog_638960cc979571105d50b846f053afdc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-10 14:36:34</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1196567770</payload_hash>
+        <record_name>Technical Catalog.Laptop</record_name>
+        <reverted_from/>
+        <source>84ca76ee97c171105d50b846f053af25</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-10 14:36:34</sys_created_on>
+        <sys_id>e78960cc979571105d50b846f053afdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a7f85e0230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-10 14:36:34</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>6f8960cc49957110a4bcfa918dd126de</update_guid>
+        <update_guid_history>6f8960cc49957110a4bcfa918dd126de:-1196567770</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Technical Catalog.Laptop">59b924cc979571105d50b846f053af54</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-10 14:37:14</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>b998c369ffed411e8efa764b1e8ad184</sys_id>
+        <sys_metadata>638960cc979571105d50b846f053afdc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Catalog.Laptop</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_parent display_value="Laptop">10f8e48c979571105d50b846f053af4f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_scope_delete display_value="">1171cab69e614554bd06de1500ccac64</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_638960cc979571105d50b846f053afdc</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_638960cc979571105d50b846f053afdc">e78960cc979571105d50b846f053afdf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-10 14:37:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

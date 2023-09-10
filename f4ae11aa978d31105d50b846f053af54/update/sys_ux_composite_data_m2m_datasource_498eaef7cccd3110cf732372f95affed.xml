@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">898eaef7efcd31100ce76b898b1b83ee</dataset>
+        <datasource display_value="Custom Portal Landing - My Tasks Datasource (Task table)">018eaef7a8cd3110e589e3c6486724ee</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-10 05:39:03</sys_created_on>
+        <sys_id>498eaef7cccd3110cf732372f95affed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_498eaef7cccd3110cf732372f95affed</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-10 05:39:03</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

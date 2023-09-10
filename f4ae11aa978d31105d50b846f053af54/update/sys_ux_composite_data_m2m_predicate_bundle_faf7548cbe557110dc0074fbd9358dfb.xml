@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">36f7548c8a557110929384ca3a0e93fd</dataset>
+        <order/>
+        <predicate_bundle display_value="My request - task bundle">fef7548cf55571100000d557e6a915fb</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-10 13:19:49</sys_created_on>
+        <sys_id>faf7548cbe557110dc0074fbd9358dfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_faf7548cbe557110dc0074fbd9358dfb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-10 13:19:49</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>
