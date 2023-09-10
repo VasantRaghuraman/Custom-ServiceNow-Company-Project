@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Sales Department Workspace for Salespersons</description>
+        <genius_result_assembly/>
+        <label>Sales Department Workspace for Salespersons search profile</label>
+        <name>x_1093153_dream_0_wmmiojai_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 15:03:25</sys_created_on>
+        <sys_id>cf16ab6b61c13110d673acbb5a845096</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sales Department Workspace for Salespersons search profile</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>ais_search_profile_cf16ab6b61c13110d673acbb5a845096</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 15:03:35</sys_updated_on>
+    </ais_search_profile>
+</record_update>

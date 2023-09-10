@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Location to display the ribbon</description>
+        <name>ribbonLocation</name>
+        <page display_value="">0316ab6bf9c13110ee49d4ab6ce60192</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 15:03:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4f16ab6bb2c13110fdbef9ef66458795</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_ux_page_property_4f16ab6bb2c13110fdbef9ef66458795</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 15:03:25</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1093153_dream_0.0316ab6bf9c13110ee49d4ab6ce60192.root.ribbonLocation</unique_name>
+        <value>sidebar</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</application>
+        <file_path/>
+        <instance_id>bbcbaa8ddb8f2090a667cac505961992</instance_id>
+        <instance_name>dev107609</instance_name>
+        <name>sys_ux_page_property_4f16ab6bb2c13110fdbef9ef66458795</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Location to display the ribbon</description><name>ribbonLocation</name><page display_value="">0316ab6bf9c13110ee49d4ab6ce60192</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-09 15:03:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>4f16ab6bb2c13110fdbef9ef66458795</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonLocation</sys_name><sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package><sys_policy/><sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope><sys_update_name>sys_ux_page_property_4f16ab6bb2c13110fdbef9ef66458795</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-09 15:03:25</sys_updated_on><type>string</type><unique_name>x_1093153_dream_0.0316ab6bf9c13110ee49d4ab6ce60192.root.ribbonLocation</unique_name><value>sidebar</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>390620131</payload_hash>
+        <record_name>ribbonLocation</record_name>
+        <reverted_from/>
+        <source>3424f612970031105d50b846f053af56</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-17 21:09:52</sys_created_on>
+        <sys_id>8564bf2b970531105d50b846f053af4c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18965b02d000000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>4564bf2be80531106008a68033702b4c</update_guid>
+        <update_guid_history>4564bf2be80531106008a68033702b4c:390620131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 16:05:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2f415122af17463e91f0c78db2a229e4</sys_id>
+        <sys_metadata>4f16ab6bb2c13110fdbef9ef66458795</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_scope_delete display_value="">1171cab69e614554bd06de1500ccac64</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_4f16ab6bb2c13110fdbef9ef66458795</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_4f16ab6bb2c13110fdbef9ef66458795">8564bf2b970531105d50b846f053af4c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 16:05:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

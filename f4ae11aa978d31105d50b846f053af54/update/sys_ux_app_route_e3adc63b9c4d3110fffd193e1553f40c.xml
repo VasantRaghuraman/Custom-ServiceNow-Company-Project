@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Sales Department Service Portal Config">67ad863b974d31105d50b846f053afe4</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Preferences</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">e7adc63b1a4d3110b11ee6afbe1f6b0c</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4fts00003g8yxah9e3hs</route_type>
+        <screen_type display_value="Preferences">63adc63bde4d31108a2194fb8970ec0c</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-10 03:15:33</sys_created_on>
+        <sys_id>e3adc63b9c4d3110fffd193e1553f40c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_ux_app_route_e3adc63b9c4d3110fffd193e1553f40c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-10 03:15:33</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=e3adc63b9c4d3110fffd193e1553f40c"/>
+</record_update>

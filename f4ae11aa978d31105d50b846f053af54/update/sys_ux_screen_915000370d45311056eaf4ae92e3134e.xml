@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="HR Department Service Portal Config">9d500037974531105d50b846f053af25</app_config>
+        <description/>
+        <event_mappings>[ {
+  "eventMappingId" : "ckfmaaairddaaaaffjddhhhdiwqbkiwr",
+  "isConfiguration" : false,
+  "offRowStorageId" : null,
+  "sourceEventApiName" : "x_1093153_dream_0.NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_95500037c5453110a8c75eb812d48b51",
+  "sourceEventDefinition" : {
+    "apiName" : "x_1093153_dream_0.NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_95500037c5453110a8c75eb812d48b51",
+    "id" : null,
+    "type" : "UXEVENT"
+  },
+  "sourceEventSysId" : null,
+  "targets" : [ {
+    "broker" : null,
+    "clientScript" : null,
+    "declarativeAction" : null,
+    "event" : {
+      "apiName" : "sn_uxf_page.NOW_UXF_PAGE#ADD_NOTIFICATIONS",
+      "payload" : {
+        "type" : "MAP_CONTAINER",
+        "container" : {
+          "items" : {
+            "type" : "EVENT_PAYLOAD_BINDING",
+            "binding" : {
+              "address" : [ "items" ]
+            }
+          }
+        }
+      },
+      "sysId" : "49fe7d575f983bb3f8eea3fa8d40694c"
+    },
+    "operation" : null,
+    "targetId" : "ckfmaaairddaaaaffiddhhhdoiasehhlj",
+    "type" : "EVENT"
+  } ]
+} ]</event_mappings>
+        <macroponent display_value="Preferences">95500037c5453110a8c75eb812d48b51</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "2",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Preferences Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Settings Page">99500037a6453110977399a4ed4f8b5a</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Preferences">1550003700453110bebb3edb40ca4a5a</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-09 16:58:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>915000370d45311056eaf4ae92e3134e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Preferences Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_ux_screen_915000370d45311056eaf4ae92e3134e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-09 16:58:01</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=915000370d45311056eaf4ae92e3134e"/>
+</record_update>

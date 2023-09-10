@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="approve">555000377b4531106c23a61a1c27be60</declarative_action_assignment>
+        <predicate display_value="My Tasks">d15000371e45311076a7a4555a59d253</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-09 16:58:01</sys_created_on>
+        <sys_id>595000371f453110685033cee8b3fb4f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_595000371f453110685033cee8b3fb4f</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-09 16:58:01</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

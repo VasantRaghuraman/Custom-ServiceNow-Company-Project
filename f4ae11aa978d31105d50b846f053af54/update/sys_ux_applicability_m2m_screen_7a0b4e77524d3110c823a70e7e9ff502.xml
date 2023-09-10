@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">fa0b4e77e84d31100f15cf81a6322a07</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">f60b4e77ae4d3110bd48522bb34f9b02</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-10 03:04:02</sys_created_on>
+        <sys_id>7a0b4e77524d3110c823a70e7e9ff502</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_7a0b4e77524d3110c823a70e7e9ff502</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-10 03:04:02</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">fa0b4e77e84d31100f15cf81a6322a07</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-10 03:04:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f20b4e771b4d311084e0d7eddb52e508</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>m2m_app_config_theme_f20b4e771b4d311084e0d7eddb52e508</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-10 03:04:02</sys_updated_on>
+        <theme display_value="Light Theme">7e0b4e77124d311095e30df2d64eee07</theme>
+        <ux_app_configuration display_value="IT Department Service Portal Config">2a0b0e77974d31105d50b846f053afcd</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

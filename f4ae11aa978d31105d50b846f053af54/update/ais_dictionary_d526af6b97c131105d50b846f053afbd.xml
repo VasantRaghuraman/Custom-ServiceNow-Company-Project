@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_1093153_dream_0_incident,x_1093153_dream_0_computer,x_1093153_dream_0_sys_user,x_1093153_dream_0_problem,x_1093153_dream_0_change</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>Sales Department Workspace for Salespersons search profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_1093153_dream_0_sales_department_workspace_for_salespersons_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 15:03:34</sys_created_on>
+        <sys_id>d526af6b97c131105d50b846f053afbd</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_1093153_dream_0_sales_department_workspace_for_salespersons_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>ais_dictionary_d526af6b97c131105d50b846f053afbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 15:03:35</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

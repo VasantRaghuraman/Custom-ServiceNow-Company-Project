@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bef886f3974d31105d50b846f053af12" label="Software" max_length="40" name="x_1093153_dream_0_software" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Acquisition method" max_length="40" name="acquisition_method" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Activation status" max_length="40" name="activation_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application model" max_length="40" name="application_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Asset tracking unit" max_length="40" name="asset_tracking_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Barcode" max_length="40" name="barcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Build" max_length="40" name="build" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bundle" max_length="40" name="bundle" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Catalog Item" max_length="40" name="catalog_item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Class" max_length="40" name="class" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CMDB CI class" max_length="40" name="cmdb_ci_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Cost" max_length="15" name="cost" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Created" max_length="40" name="created" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Created by" max_length="40" name="created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Depreciation" max_length="40" name="depreciation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1601" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Display name" max_length="71" name="display_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Domain" max_length="40" name="domain" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Height" max_length="40" name="height" type="string"/>
+        <element label="Height (U)" max_length="40" name="height_u" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ISO serial number" max_length="40" name="iso_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="License type" max_length="40" name="license_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Life Cycle Stage" max_length="40" name="life_cycle_stage" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Life Cycle Stage Status" max_length="40" name="life_cycle_stage_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Main component" max_length="40" name="main_component" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manufacturer" max_length="40" name="manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model number" max_length="40" name="model_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="68" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Next version" max_length="40" name="next_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owner" max_length="40" name="owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="42" name="short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Software category" max_length="40" name="software_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Version" max_length="40" name="version" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

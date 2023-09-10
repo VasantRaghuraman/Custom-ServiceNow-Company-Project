@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eea793eb978131105d50b846f053afb7" label="Computer" max_length="40" name="x_1093153_dream_0_computer" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Approval group" max_length="40" name="approval_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Asset" max_length="54" name="asset" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Asset tag" max_length="40" name="asset_tag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned" max_length="40" name="assigned" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned to" max_length="40" name="assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Attestation Status" max_length="40" name="attestation_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Attested" max_length="40" name="attested" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Attested By" max_length="40" name="attested_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Attested Date" max_length="40" name="attested_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business Unit" max_length="40" name="business_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Can Print" max_length="40" name="can_print" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CD" max_length="40" name="cd" type="string"/>
+        <element label="CD Speed" max_length="40" name="cd_speed" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Change Group" max_length="40" name="change_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Chassis type" max_length="40" name="chassis_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Checked in" max_length="40" name="checked_in" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Checked out" max_length="40" name="checked_out" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="40" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Company" max_length="40" name="company" type="string"/>
+        <element label="Cost" max_length="15" name="cost" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost center" max_length="40" name="cost_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost currency" max_length="40" name="cost_currency" type="string"/>
+        <element label="CPU core count" max_length="40" name="cpu_core_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="CPU core thread" max_length="40" name="cpu_core_thread" type="string"/>
+        <element label="CPU count" max_length="40" name="cpu_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="CPU manufacturer" max_length="40" name="cpu_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CPU name" max_length="47" name="cpu_name" type="string"/>
+        <element label="CPU speed (MHz)" max_length="40" name="cpu_speed_mhz" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="CPU type" max_length="40" name="cpu_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Default Gateway" max_length="40" name="default_gateway" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="70" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Discovery source" max_length="40" name="discovery_source" type="string"/>
+        <element label="Disk space (GB)" max_length="15" name="disk_space_gb" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="DNS Domain" max_length="40" name="dns_domain" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Duplicate Of" max_length="40" name="duplicate_of" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="First discovered" max_length="40" name="first_discovered" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Form factor" max_length="40" name="form_factor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fully qualified domain name" max_length="40" name="fully_qualified_domain_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hardware Status" max_length="40" name="hardware_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Installed" max_length="40" name="installed" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Install Status" max_length="40" name="install_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IP Address" max_length="40" name="ip_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Is Virtual" max_length="40" name="is_virtual" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Life Cycle Stage" max_length="40" name="life_cycle_stage" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Life Cycle Stage Status" max_length="40" name="life_cycle_stage_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="47" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="MAC Address" max_length="40" name="mac_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Managed by" max_length="40" name="managed_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Managed By Group" max_length="40" name="managed_by_group" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manufacturer" max_length="40" name="manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model ID" max_length="43" name="model_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model number" max_length="40" name="model_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Monitor" max_length="40" name="monitor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="43" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Object ID" max_length="40" name="object_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Operating System" max_length="40" name="operating_system" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Operational status" max_length="40" name="operational_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ordered" max_length="40" name="ordered" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Order received" max_length="40" name="order_received" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="OS Domain" max_length="40" name="os_domain" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OS Service Pack" max_length="40" name="os_service_pack" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OS Version" max_length="40" name="os_version" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owned by" max_length="40" name="owned_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PO number" max_length="40" name="po_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Purchased" max_length="40" name="purchased" type="glide_date"/>
+        <element label="RAM (MB)" max_length="40" name="ram_mb" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Requires verification" max_length="40" name="requires_verification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Schedule" max_length="40" name="schedule" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Serial number" max_length="40" name="serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Subcategory" max_length="40" name="subcategory" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supported by" max_length="40" name="supported_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Support group" max_length="40" name="support_group" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

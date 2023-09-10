@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3d5882b3974d31105d50b846f053afb2" label="Hardware" max_length="40" name="x_1093153_dream_0_hardware" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Acquisition method" max_length="40" name="acquisition_method" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Asset tag" max_length="40" name="asset_tag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned" max_length="40" name="assigned" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Assigned to" max_length="40" name="assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Beneficiary" max_length="40" name="beneficiary" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Checked in" max_length="40" name="checked_in" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Checked out" max_length="40" name="checked_out" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Class" max_length="40" name="class" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="40" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Company" max_length="40" name="company" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Configuration Item" max_length="53" name="configuration_item" type="string"/>
+        <element label="Cost" max_length="15" name="cost" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Cost center" max_length="40" name="cost_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created" max_length="40" name="created" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Created by" max_length="40" name="created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="department" type="string"/>
+        <element label="Depreciated amount" max_length="15" name="depreciated_amount" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Depreciation" max_length="40" name="depreciation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Display name" max_length="61" name="display_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Domain" max_length="40" name="domain" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Domain Path" max_length="40" name="domain_path" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Life Cycle Stage" max_length="40" name="life_cycle_stage" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Life Cycle Stage Status" max_length="40" name="life_cycle_stage_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="47" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Managed by" max_length="40" name="managed_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="50" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model category" max_length="40" name="model_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Owned by" max_length="40" name="owned_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Parent" max_length="40" name="parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Purchased" max_length="40" name="purchased" type="glide_date"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Reserved for" max_length="40" name="reserved_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Substate" max_length="40" name="substate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Supported by" max_length="40" name="supported_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Support group" max_length="40" name="support_group" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor" max_length="40" name="vendor" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

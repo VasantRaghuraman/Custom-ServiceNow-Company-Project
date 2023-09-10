@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1093153_dream_0_sales_department_workspace_for_salespersons_search_profile_default_spell_check_dictionary">d526af6b97c131105d50b846f053afbd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="Sales Department Workspace for Salespersons search profile">cf16ab6b61c13110d673acbb5a845096</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 15:03:34</sys_created_on>
+        <sys_id>a126af6b97c131105d50b846f053afc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1093153_dream_0_sales_department_workspace_for_salespersons_search_profile_default_spell_check_dictionary.Sales Department Workspace for Salespersons search profile</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_a126af6b97c131105d50b846f053afc0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 15:03:34</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

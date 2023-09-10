@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Sales Department Workspace for Salespersons">0316ab6bf9c13110ee49d4ab6ce60192</page>
+        <required_translations>[ {
+  "message" : "New Change",
+  "comment" : ""
+}, {
+  "message" : "New Computer",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Problem",
+  "comment" : ""
+}, {
+  "message" : "New User",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 15:03:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>cf16ab6b56c13110cf9f64640e3df594</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_ux_page_property_cf16ab6b56c13110cf9f64640e3df594</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 15:03:34</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1093153_dream_0.0316ab6bf9c13110ee49d4ab6ce60192.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Computer"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_computer","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_computer","canCreate":true}}},{"label":{"translatable":true,"message":"New Problem"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_problem","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_problem","canCreate":true}}},{"label":{"translatable":true,"message":"New User"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_sys_user","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_sys_user","canCreate":true}}},{"label":{"translatable":true,"message":"New Change"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_change","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_change","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_incident","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_incident","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=cf16ab6b56c13110cf9f64640e3df594"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</application>
+        <file_path/>
+        <instance_id>bbcbaa8ddb8f2090a667cac505961992</instance_id>
+        <instance_name>dev107609</instance_name>
+        <name>sys_ux_page_property_cf16ab6b56c13110cf9f64640e3df594</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="Sales Department Workspace for Salespersons">0316ab6bf9c13110ee49d4ab6ce60192</page><required_translations>[ {
+  "message" : "New Change",
+  "comment" : ""
+}, {
+  "message" : "New Computer",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Problem",
+  "comment" : ""
+}, {
+  "message" : "New User",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-09 15:03:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>cf16ab6b56c13110cf9f64640e3df594</sys_id><sys_mod_count>1</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package><sys_policy/><sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope><sys_update_name>sys_ux_page_property_cf16ab6b56c13110cf9f64640e3df594</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-09 15:03:34</sys_updated_on><type>json</type><unique_name>x_1093153_dream_0.0316ab6bf9c13110ee49d4ab6ce60192.root.chrome_tab</unique_name><value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Computer"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_computer","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_computer","canCreate":true}}},{"label":{"translatable":true,"message":"New Problem"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_problem","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_problem","canCreate":true}}},{"label":{"translatable":true,"message":"New User"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_sys_user","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_sys_user","canCreate":true}}},{"label":{"translatable":true,"message":"New Change"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_change","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_change","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"x_1093153_dream_0_incident","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1093153_dream_0_incident","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=cf16ab6b56c13110cf9f64640e3df594"/></record_update>]]></payload>
+        <payload_hash>-1836275318</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>84ca76ee97c171105d50b846f053af25</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 15:03:34</sys_created_on>
+        <sys_id>5926af6b97c131105d50b846f053af31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a7a783c2f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 15:03:34</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>5126af6b45c13110c6b51f1c05f12631</update_guid>
+        <update_guid_history>5126af6b45c13110c6b51f1c05f12631:-1836275318,5926af6be9c13110328991fc0073b52f:1486357468</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 16:05:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3598ac0d34c549d584269e87afdc0089</sys_id>
+        <sys_metadata>cf16ab6b56c13110cf9f64640e3df594</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_scope_delete display_value="">1171cab69e614554bd06de1500ccac64</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_cf16ab6b56c13110cf9f64640e3df594</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_cf16ab6b56c13110cf9f64640e3df594">5926af6b97c131105d50b846f053af31</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 16:05:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <dashboard display_value="IT Department Personnel Workspace">7704772bfc0531105db5a128ea9003af</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-09 16:04:23</sys_created_on>
+        <sys_id>7b04772b4b05311072e31704a3bc1cb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>par_dashboard_tab_7b04772b4b05311072e31704a3bc1cb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-09 16:04:23</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>
