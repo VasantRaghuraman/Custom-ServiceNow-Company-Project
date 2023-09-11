@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description>Scenario: Employees of organization wish to order different types of   Computers from a Custom Service Catalog and wish to report back on various incidents or issues related to software or hardware on a computer.&#13;
+The purpose of the application is to demonstrate ability to build custom applications from scratch with various tables linked together, build user interfaces, one separate for the Administrators in Next Generation UI, and the various departments having access to only Service Portal.&#13;
+Access Controls ensure that various personnel can only view what they are supposed to view, edit, create and delete.&#13;
+Create Multiple Knowledge Bases for the various departments that individual departments can then maintain.</description>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>admin,x_1093153_dream_0.security_admin_role,x_1093153_dream_0.it_dept_role</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-11 08:23:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6c54109c9715b1105d50b846f053af11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dream Team Company</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_app_application_6c54109c9715b1105d50b846f053af11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-11 08:23:30</sys_updated_on>
+        <title>Dream Team Company</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
