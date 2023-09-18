@@ -29,13 +29,13 @@
         <image_width/>
         <size_bytes>9149</size_bytes>
         <size_compressed>9023</size_compressed>
-        <state>pending</state>
+        <state>available</state>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-09-10 03:04:02</sys_created_on>
         <sys_id>3a0b0e77fe4d3110045d80872876c1f5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-09-10 03:04:02</sys_updated_on>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2023-09-12 06:53:14</sys_updated_on>
         <table_name>sys_ux_theme_asset</table_name>
         <table_sys_id>b60b0e77694d31107e83bbc910fdddf5</table_sys_id>
     </sys_attachment>
