@@ -18,6 +18,6 @@
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2023-09-10 03:04:02</sys_updated_on>
         <theme display_value="Light Theme">7e0b4e77124d311095e30df2d64eee07</theme>
-        <ux_app_configuration display_value="IT Department Service Portal Config">2a0b0e77974d31105d50b846f053afcd</ux_app_configuration>
+        <ux_app_configuration display_value="IT Marketing Service Portal Config">2a0b0e77974d31105d50b846f053afcd</ux_app_configuration>
     </m2m_app_config_theme>
 </record_update>

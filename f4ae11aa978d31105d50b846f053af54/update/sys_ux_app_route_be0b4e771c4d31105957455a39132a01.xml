@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
     <sys_ux_app_route action="INSERT_OR_UPDATE">
-        <app_config display_value="IT Department Service Portal Config">2a0b0e77974d31105d50b846f053afcd</app_config>
+        <app_config display_value="IT Marketing Service Portal Config">2a0b0e77974d31105d50b846f053afcd</app_config>
         <description/>
         <extension_point/>
         <fields>sysId</fields>

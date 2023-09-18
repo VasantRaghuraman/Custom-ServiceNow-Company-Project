@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
     <sys_ux_screen action="INSERT_OR_UPDATE">
         <active>true</active>
-        <app_config display_value="IT Department Service Portal Config">2a0b0e77974d31105d50b846f053afcd</app_config>
+        <app_config display_value="IT Marketing Service Portal Config">2a0b0e77974d31105d50b846f053afcd</app_config>
         <description/>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Order success">320b0e77e84d3110f3812b5b76c03cff</macroponent>
