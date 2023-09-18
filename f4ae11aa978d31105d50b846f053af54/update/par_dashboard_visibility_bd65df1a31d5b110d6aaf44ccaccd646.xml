@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="IT Manager Workspace">7165df1a64d5b110664b1e4da0bd0c42</dashboard>
+        <experience display_value="IT Manager Workspace">f965df1a25d5b110a1c5751179dde642</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 02:53:43</sys_created_on>
+        <sys_id>bd65df1a31d5b110d6aaf44ccaccd646</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>par_dashboard_visibility_bd65df1a31d5b110d6aaf44ccaccd646</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 02:53:43</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="3d5882b3974d31105d50b846f053afb2" label="Hardware" max_length="40" name="x_1093153_dream_0_hardware" type="collection">
+    <element db_object_id="3d5882b3974d31105d50b846f053afb2" label="Hardware" max_length="40" name="x_1093153_dream_0_hardware" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Acquisition method" max_length="40" name="acquisition_method" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Asset tag" max_length="40" name="asset_tag" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Assigned" max_length="40" name="assigned" type="glide_date_time"/>
