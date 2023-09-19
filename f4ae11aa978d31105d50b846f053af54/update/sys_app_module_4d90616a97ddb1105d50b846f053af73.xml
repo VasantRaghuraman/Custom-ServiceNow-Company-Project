@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Dream Team Company">6c54109c9715b1105d50b846f053af11</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>For IT Marketing Personnel, accessible by General Marketing and Security Admin</hint>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>IT Marketing Service Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>70</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/x/1093153/it-marketing/landing</query>
+        <report/>
+        <roles>admin,x_1093153_dream_0.security_admin_role,x_1093153_dream_0.marketing_role</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-18 13:04:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d90616a97ddb1105d50b846f053af73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Marketing Service Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dream Team Organization Application" source="x_1093153_dream_0">f4ae11aa978d31105d50b846f053af54</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dream Team Organization Application">f4ae11aa978d31105d50b846f053af54</sys_scope>
+        <sys_update_name>sys_app_module_4d90616a97ddb1105d50b846f053af73</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-18 13:04:56</sys_updated_on>
+        <timeline_page/>
+        <title>IT Marketing Service Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>IT Marketing Service Portal</window_name>
+    </sys_app_module>
+</record_update>
